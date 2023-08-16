@@ -1,0 +1,5 @@
+1) Accuracy changes as the number of hidden nodes increases. Can see an initial increase in accuracy with a moderate number of hidden nodes, followed by a slight decrease in accuracy as add more hidden nodes.
+
+2) As the number of hidden nodes increases, the accuracy is likely to improve initially.
+With more hidden nodes, the neural network can better capture nuances and finer details in the data set, leading to improved performance.
+The accuracy may continue to increase or stabilize up to a certain point as increase the number of hidden nodes.
